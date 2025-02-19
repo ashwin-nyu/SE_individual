@@ -12,8 +12,8 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/UtkarshMitta/SE-Individual-assignment-1.git
-   cd SE-Individual-assignment-1
+   git clone https://github.com/ashwin-nyu/SE_individual.git
+   cd SE_individual
    ```
 
 2. **Create and Activate a Virtual Environment (Recommended)**
